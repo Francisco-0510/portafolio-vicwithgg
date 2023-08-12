@@ -294,6 +294,10 @@ text-align: start;
     vertical-align: top;
     width: 16px;
 }
+/*ESTILOS MODALS PROEYECTOS  */
+.modal-header, .modal-body, .modal-footer{
+    border: transparent;
+}
 
 
 
